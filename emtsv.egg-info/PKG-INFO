@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: emtsv
+Version: 0.13
+Summary: A simple Python library for handling .emtsv data structures.
+Author: Tibor Szécsényi
+Dynamic: author
+Dynamic: summary
