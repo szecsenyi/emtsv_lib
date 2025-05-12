@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 emtsv.egg-info/PKG-INFO
 emtsv.egg-info/SOURCES.txt
